@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 String URL = endpoint.getText().toString();
                 if (URL.isEmpty()) {
-                    Toast.makeText(MainActivity.this, "Please enter a URL endpoint", Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this, "Please enter an Endpoint URL", Toast.LENGTH_LONG).show();
                     return;
                 }
 
