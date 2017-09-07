@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UploadImage</string>
+    <string name="text_endpoint_url">Endpoint URL to upload image</string>
+    <string name="text_choose_image">Choose image</string>
+    <string name="text_upload">Upload</string>
+    <string name="text_image_chose">Image chose</string>
+</resources>
